@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="8e5b87570fd85f00d8dc305be1050e90" sys_domain="global" table="x_ahho_trimedx_fou_site" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-21 01:49:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>025b87570fd85f00d8dc305be1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_ahho_trimedx_fou_site" name="x_ahho_trimedx_fou_site" sys_domain="global" view="Default view">8e5b87570fd85f00d8dc305be1050e90</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_trimedx_fou_site" sys_domain="global" view="Default view">1a39c851130853404e605dcf3244b018</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-21 01:49:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-21 01:49:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ca5b87570fd85f00d8dc305be1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_ahho_trimedx_fou_site" name="x_ahho_trimedx_fou_site" sys_domain="global" view="Default view">8e5b87570fd85f00d8dc305be1050e90</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_ahho_trimedx_fou_site" sys_domain="global" view="Default view">c25b87570fd85f00d8dc305be1050e90</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-21 01:49:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_ahho_trimedx_fou_site</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-21 01:49:23</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>8e5b87570fd85f00d8dc305be1050e90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ahho_trimedx_fou_site</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Trimedx Foundation" source="x_ahho_trimedx_fou">7500e1af13374f004e605dcf3244b058</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Trimedx Foundation">7500e1af13374f004e605dcf3244b058</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8e5b87570fd85f00d8dc305be1050e90</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-21 01:49:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

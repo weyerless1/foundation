@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="modality" table="x_ahho_trimedx_fou_equipment" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modality</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BIO</label>
+            <language>en</language>
+            <name>x_ahho_trimedx_fou_equipment</name>
+            <sequence/>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-01-27 22:53:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>39cc726b133b4f004e605dcf3244b03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-01-27 22:53:01</sys_updated_on>
+            <value>BIO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modality</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAB</label>
+            <language>en</language>
+            <name>x_ahho_trimedx_fou_equipment</name>
+            <sequence/>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-01-27 22:53:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2ddcb26b133b4f004e605dcf3244b019</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-01-27 22:53:13</sys_updated_on>
+            <value>LAB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modality</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RAD</label>
+            <language>en</language>
+            <name>x_ahho_trimedx_fou_equipment</name>
+            <sequence/>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-01-27 22:53:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>64ec7a2b133b4f004e605dcf3244b066</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-01-27 22:53:26</sys_updated_on>
+            <value>RAD</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>modality</element>
+            <name>x_ahho_trimedx_fou_equipment</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-01-27 22:53:01</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>f8dcfa2b133b4f004e605dcf3244b0f2</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>modality</sys_name>
+            <sys_package display_value="Trimedx Foundation" source="x_ahho_trimedx_fou">7500e1af13374f004e605dcf3244b058</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Trimedx Foundation">7500e1af13374f004e605dcf3244b058</sys_scope>
+            <sys_update_name>sys_choice_x_ahho_trimedx_fou_equipment_modality</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-01-27 22:53:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

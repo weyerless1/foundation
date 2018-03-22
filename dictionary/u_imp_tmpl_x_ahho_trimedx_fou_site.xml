@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Ahho Trimedx Fou Site" max_length="40" name="u_imp_tmpl_x_ahho_trimedx_fou_site" type="collection">
+        <element attributes="import_attribute_name=Active,edge_encryption_enabled=true" label="Active" max_length="40" name="u_active" type="string"/>
+        <element attributes="import_attribute_name=Addess2,edge_encryption_enabled=true" label="Addess2" max_length="40" name="u_addess2" type="string"/>
+        <element attributes="import_attribute_name=Address1,edge_encryption_enabled=true" label="Address1" max_length="40" name="u_address1" type="string"/>
+        <element attributes="import_attribute_name=Contact Email,edge_encryption_enabled=true" label="Contact Email" max_length="40" name="u_contact_email" type="string"/>
+        <element attributes="import_attribute_name=Contact Name,edge_encryption_enabled=true" label="Contact Name" max_length="40" name="u_contact_name" type="string"/>
+        <element attributes="import_attribute_name=Contact Phone,edge_encryption_enabled=true" label="Contact Phone" max_length="40" name="u_contact_phone" type="string"/>
+        <element attributes="import_attribute_name=Country,edge_encryption_enabled=true" label="Country" max_length="32" name="u_country" type="string"/>
+        <element attributes="import_attribute_name=Customer Name,edge_encryption_enabled=true" label="Customer Name" max_length="40" name="u_customer_name" type="string"/>
+        <element attributes="import_attribute_name=Site City,edge_encryption_enabled=true" label="Site City" max_length="40" name="u_site_city" type="string"/>
+        <element attributes="import_attribute_name=Site Name,edge_encryption_enabled=true" label="Site Name" max_length="40" name="u_site_name" type="string"/>
+        <element attributes="import_attribute_name=Site State,edge_encryption_enabled=true" label="Site State" max_length="32" name="u_site_state" type="string"/>
+        <element attributes="import_attribute_name=Site Zip" label="Site Zip" max_length="40" name="u_site_zip" type="integer"/>
+    </element>
+</database>

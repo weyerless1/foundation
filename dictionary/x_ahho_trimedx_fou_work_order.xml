@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Work Order" max_length="40" name="x_ahho_trimedx_fou_work_order" type="collection">
+        <element label="CEID" max_length="40" name="ceid" type="string"/>
+        <element label="Closed date" max_length="40" name="closed_date" type="glide_date_time"/>
+        <element label="Equipment Description" max_length="40" name="equipment_description" type="string"/>
+        <element label="Equipment Id" mandatory="true" max_length="32" name="equipment_id" reference="x_ahho_trimedx_fou_equipment" type="reference"/>
+        <element label="Equipment Manufacture" max_length="40" name="equipment_manufacture" type="string"/>
+        <element label="Model" max_length="40" name="model" type="string"/>
+        <element label="Problem Description" mandatory="true" max_length="40" name="problem_description" type="string"/>
+        <element label="Serial Number" max_length="40" name="serial_number" type="string"/>
+        <element label="Service Notes" max_length="40" name="service_notes" type="string"/>
+        <element label="Site Id" max_length="32" name="site_id" reference="x_ahho_trimedx_fou_site" type="reference"/>
+        <element label="Site Name" max_length="40" name="site_name" type="string"/>
+        <element label="Technician Email" mandatory="true" max_length="40" name="technician_email" type="string"/>
+        <element label="Technician Name" max_length="40" name="technician_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true,ts_weight=50" default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Work Order Number" max_length="40" name="work_order_number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element label="WO Contact" max_length="40" name="wo_contact" type="string"/>
+        <element choice="3" default="1" label="WO Status" max_length="40" name="wo_status_new" type="choice">
+            <choice>
+                <element label="Close" value="3"/>
+                <element label="Hold" value="2"/>
+                <element label="Open" value="1"/>
+            </choice>
+        </element>
+        <element choice="3" label="WO Type" mandatory="true" max_length="40" name="wo_type" type="choice">
+            <choice>
+                <element label="PM" sequence="1" value="PM"/>
+                <element label="Repair" sequence="2" value="Repair"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="site_id"/>
+        </index>
+        <index name="index2">
+            <element name="equipment_id"/>
+        </index>
+    </element>
+</database>

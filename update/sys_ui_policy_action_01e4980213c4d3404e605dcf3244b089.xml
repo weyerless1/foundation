@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>closed_date</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2018-02-04 05:04:18</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>01e4980213c4d3404e605dcf3244b089</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>closed_date</sys_name>
+        <sys_package display_value="Trimedx Foundation" source="x_ahho_trimedx_fou">7500e1af13374f004e605dcf3244b058</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Trimedx Foundation">7500e1af13374f004e605dcf3244b058</sys_scope>
+        <sys_update_name>sys_ui_policy_action_01e4980213c4d3404e605dcf3244b089</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2018-02-04 05:04:18</sys_updated_on>
+        <table>x_ahho_trimedx_fou_work_order</table>
+        <ui_policy display_value="closed date should be visible once work order is closed">10b4180213c4d3404e605dcf3244b00b</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

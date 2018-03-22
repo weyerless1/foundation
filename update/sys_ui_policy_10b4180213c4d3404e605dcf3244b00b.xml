@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_ahho_trimedx_fou_work_order">wo_status_new=3^EQ<item endquery="false" field="wo_status_new" goto="false" newquery="false" operator="=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+g_form.setValue('closed_date', '');
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+g_form.setValue('closed_date', javascript:gs.nowDateTime());
+}]]></script_true>
+        <set_values/>
+        <short_description>closed date should be visible once work order is closed</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2018-02-04 05:03:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>10b4180213c4d3404e605dcf3244b00b</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>closed date should be visible once work order is closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Trimedx Foundation" source="x_ahho_trimedx_fou">7500e1af13374f004e605dcf3244b058</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Trimedx Foundation">7500e1af13374f004e605dcf3244b058</sys_scope>
+        <sys_update_name>sys_ui_policy_10b4180213c4d3404e605dcf3244b00b</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2018-02-21 17:35:31</sys_updated_on>
+        <table>x_ahho_trimedx_fou_work_order</table>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

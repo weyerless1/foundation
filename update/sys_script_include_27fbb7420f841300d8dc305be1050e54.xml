@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>false</active>
+        <api_name>x_ahho_trimedx_fou.UpdatePMDate</api_name>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>UpdatePMDate</name>
+        <script><![CDATA[var UpdatePMDate = Class.create();
+UpdatePMDate.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	updatePMDate: function() {
+		gs.info('hello'); 
+        var closeDate = this.getParameter('sysparm_ClosedDate');
+		gs.info(closeDate);
+		var id = this.getParameter('sysparm_EquipId');
+		gs.info(id);
+		var gr = GlideRecord('x_ahho_trimedx_fou_equipment');
+  gr.get('sys_id',id);
+//gs.info(gr.other);
+gr.setValue('last_pm_date',closeDate);
+		gr.update();
+					return closeDate;
+	},
+	
+    type: 'UpdatePMDate'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2018-02-04 21:54:20</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>27fbb7420f841300d8dc305be1050e54</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>UpdatePMDate</sys_name>
+        <sys_package display_value="Trimedx Foundation" source="x_ahho_trimedx_fou">7500e1af13374f004e605dcf3244b058</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Trimedx Foundation">7500e1af13374f004e605dcf3244b058</sys_scope>
+        <sys_update_name>sys_script_include_27fbb7420f841300d8dc305be1050e54</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2018-02-10 19:34:12</sys_updated_on>
+    </sys_script_include>
+</record_update>

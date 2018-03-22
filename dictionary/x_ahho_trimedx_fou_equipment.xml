@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Equipment" max_length="40" name="x_ahho_trimedx_fou_equipment" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="CEID" max_length="40" name="ceid" type="string"/>
+        <element choice="1" label="Class" max_length="4000" name="class" type="choice">
+            <choice>
+                <element label="Medical" value="Medical"/>
+                <element label="Test" value="Test"/>
+            </choice>
+        </element>
+        <element label="Customer Id" max_length="32" name="customer_id" reference="x_ahho_trimedx_fou_customer" type="reference"/>
+        <element label="Customer Name" max_length="40" name="customer_name" type="string"/>
+        <element label="Equipment Description" max_length="40" name="equipment_description" type="string"/>
+        <element attributes="ignore_filter_on_new=true,ts_weight=50" default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Equipment Id" max_length="40" name="equipment_id" read_only="true" type="string" use_dynamic_default="true"/>
+        <element choice="1" label="Equipment Tag" max_length="40" name="equipment_tag" type="string">
+            <choice>
+                <element label="Green" value="Green"/>
+                <element label="Red" value="Red"/>
+                <element label="Yellow" value="Yellow"/>
+            </choice>
+        </element>
+        <element label="Last Location" max_length="40" name="last_location" type="string"/>
+        <element label="Last PM Date" max_length="40" name="last_pm_date" type="glide_date_time"/>
+        <element label="Manufacture" max_length="40" name="manufacture" type="string"/>
+        <element choice="1" label="Modality" max_length="40" name="modality" type="choice">
+            <choice>
+                <element label="BIO" value="BIO"/>
+                <element label="LAB" value="LAB"/>
+                <element label="RAD" value="RAD"/>
+            </choice>
+        </element>
+        <element label="Model" max_length="40" name="model" type="string"/>
+        <element label="Other" max_length="40" name="other" type="string"/>
+        <element choice="1" label="PM Schedule" max_length="40" name="pm_schedule" type="choice">
+            <choice>
+                <element label="1 Year" value="1 Year"/>
+                <element label="6 Months" value="6 Months"/>
+                <element label="other" value="other"/>
+            </choice>
+        </element>
+        <element label="Serial Number" max_length="40" name="serial_number" type="string"/>
+        <element dependent="customer_id" dependent_on_field="customer_id" label="Site  Id" max_length="32" name="site_id" reference="x_ahho_trimedx_fou_site" type="reference" use_dependent_field="true"/>
+        <element label="Site  Name" max_length="40" name="site_name" type="string"/>
+        <index name="index">
+            <element name="site_id"/>
+        </index>
+        <index name="index2">
+            <element name="customer_id"/>
+        </index>
+    </element>
+</database>

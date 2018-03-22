@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="wo_status" table="x_ahho_trimedx_fou_work_order" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>wo_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_ahho_trimedx_fou_work_order</name>
+            <sequence>1</sequence>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-01-28 00:03:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4afccbe3137b4f004e605dcf3244b071</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-14 03:46:02</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>wo_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hold</label>
+            <language>en</language>
+            <name>x_ahho_trimedx_fou_work_order</name>
+            <sequence>2</sequence>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-01-28 00:03:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>150d47e3137b4f004e605dcf3244b009</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-14 03:46:15</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>wo_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Close</label>
+            <language>en</language>
+            <name>x_ahho_trimedx_fou_work_order</name>
+            <sequence>3</sequence>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-01-28 00:04:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7f0dcbe3137b4f004e605dcf3244b074</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-14 03:46:23</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>wo_status</element>
+            <name>x_ahho_trimedx_fou_work_order</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-01-28 00:03:41</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>400d47e3137b4f004e605dcf3244b006</sys_id>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_name>wo_status</sys_name>
+            <sys_package display_value="Trimedx Foundation" source="x_ahho_trimedx_fou">7500e1af13374f004e605dcf3244b058</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Trimedx Foundation">7500e1af13374f004e605dcf3244b058</sys_scope>
+            <sys_update_name>sys_choice_x_ahho_trimedx_fou_work_order_wo_status</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-14 03:46:23</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

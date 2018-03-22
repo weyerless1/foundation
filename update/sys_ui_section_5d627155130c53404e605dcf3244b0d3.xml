@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="5d627155130c53404e605dcf3244b0d3" sys_domain="global" table="u_imp_tmpl_x_ahho_trimedx_fou_equipment" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>dd627155130c53404e605dcf3244b0d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_active</element>
+            <position>1</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>55627155130c53404e605dcf3244b0d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>d5627155130c53404e605dcf3244b0d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ceid</element>
+            <position>3</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>59627155130c53404e605dcf3244b0d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>d9627155130c53404e605dcf3244b0d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_class</element>
+            <position>5</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>5d627155130c53404e605dcf3244b0d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>6</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>dd627155130c53404e605dcf3244b0d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_customer_name</element>
+            <position>7</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>51627155130c53404e605dcf3244b0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_equipment_description</element>
+            <position>8</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>d1627155130c53404e605dcf3244b0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_equipment_tag</element>
+            <position>9</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>55627155130c53404e605dcf3244b0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_last_location</element>
+            <position>10</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>d5627155130c53404e605dcf3244b0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_last_pm_date</element>
+            <position>11</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>59627155130c53404e605dcf3244b0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_manufacture</element>
+            <position>12</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>d9627155130c53404e605dcf3244b0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>13</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>5d627155130c53404e605dcf3244b0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_modality</element>
+            <position>14</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>dd627155130c53404e605dcf3244b0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_model</element>
+            <position>15</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>51627155130c53404e605dcf3244b0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other</element>
+            <position>16</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>d1627155130c53404e605dcf3244b0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pm_schedule</element>
+            <position>17</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>55627155130c53404e605dcf3244b0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_serial_number</element>
+            <position>18</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>d5627155130c53404e605dcf3244b0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_site__name</element>
+            <position>19</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>59627155130c53404e605dcf3244b0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>20</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>d9627155130c53404e605dcf3244b0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_import_log.message</element>
+            <position>21</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_id>5d627155130c53404e605dcf3244b0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_ahho_trimedx_fou_equipment" sys_domain="global" view="Default view">5d627155130c53404e605dcf3244b0d3</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_imp_tmpl_x_ahho_trimedx_fou_equipment</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:57:12</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>5d627155130c53404e605dcf3244b0d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_x_ahho_trimedx_fou_equipment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Trimedx Foundation" source="x_ahho_trimedx_fou">7500e1af13374f004e605dcf3244b058</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Trimedx Foundation">7500e1af13374f004e605dcf3244b058</sys_scope>
+            <sys_update_name>sys_ui_section_5d627155130c53404e605dcf3244b0d3</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:57:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
